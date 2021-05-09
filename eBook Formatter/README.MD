@@ -1,0 +1,1 @@
+This is a simple C# program for Visual Studio which will format text files as required by the eBook read. It will work with textfiles that have Windows style line endinds and file that have UNIX style line endings.
