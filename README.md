@@ -5,4 +5,4 @@ InkPlate 6 is a 600 x 800 pixel e-ink screen from a recycled Kindle, mounted on 
 
 Full details are provided in "Minimalist eBook Reader,pdf". 
 
-![The Hardware](https://github.com/jackbrennan-creator/minimalist-ebook-reader/blob/master/startup.JPG)
+![eBook Reader](https://github.com/jackbrennan-creator/minimalist-ebook-reader/blob/main/startup.JPG)
