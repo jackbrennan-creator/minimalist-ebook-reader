@@ -80,10 +80,11 @@ void wait_for_any_button()
   while (b == no_button);
 }
 
-void reduce_power(long interval)
+void reduce_power(unsigned long interval_milliseconds)
 {
+  const unsigned long microseconds_per_millisecond = 1000;
   display->einkOff();
-    esp_sleep_enable_timer_wakeup(interval);
+    esp_sleep_enable_timer_wakeup(interval_milliseconds * microseconds_per_millisecond);
     esp_light_sleep_start();
   display->einkOn();
 }
