@@ -39,7 +39,7 @@ void loop()
 {
   button b = get_button();
   if (b != no_button) handle_button(b);
-  reduce_power(1 * seconds);
+  reduce_power(100 * milliseconds);
 }
 
 void handle_button(button b)
