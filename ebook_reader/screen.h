@@ -2,8 +2,8 @@
 
 #include "Inkplate.h"
 
-const int milliseconds = 1;
-const int seconds      = 1000 * milliseconds;
+const unsigned long milliseconds = 1;
+const unsigned long seconds      = 1000 * milliseconds;
 
 enum orientation {portrait = 1, landscape = 2, inverted_portrait = 3, inverted_landscape = 4};
 
@@ -23,4 +23,4 @@ void   redisplay();
 
 button get_button();
 
-void   reduce_power(long interval);
+void   reduce_power(unsigned long interval_milliseconds);
