@@ -26,7 +26,7 @@ The Base with the InkPad Removed
 ![Base](https://github.com/jackbrennan-creator/minimalist-ebook-reader/blob/main/Gallery/base.JPG)
 
 Why Stop at One?
-![Fourup](https://github.com/jackbrennan-creator/minimalist-ebook-reader/blob/main/Gallery/fourup.JPG)
+![Four up](https://github.com/jackbrennan-creator/minimalist-ebook-reader/blob/main/Gallery/four_up.JPG)
 
 The Large Screen Version (Just need to sync page turning via Bluetooth)
 ![10x12](https://github.com/jackbrennan-creator/minimalist-ebook-reader/blob/main/Gallery/10x12.JPG)
