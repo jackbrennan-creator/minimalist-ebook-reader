@@ -20,7 +20,6 @@ char            current_book_path[ebook::max_book_path_length];
 
 void setup()
 {
-  Serial.begin(115200); while(!Serial);
   init_screen();
   settings  = new ebook_settings();
   errors    = new error_manager ();
